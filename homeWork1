@@ -1,0 +1,10 @@
+            string playerName = "Георгий!";
+            int playerLevel = 0;
+            uint playerId = 7065493;
+            byte enemyWave = 255;
+            sbyte batleTime = 120;
+            float playerHealth = 9.4f;
+            double enemyHealth = 15.3;
+            bool canPlayerComeIn = false;
+            ushort distanceToTheGoal = 23445;
+            char lockCode1 = '3';
