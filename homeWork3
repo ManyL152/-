@@ -1,0 +1,11 @@
+            string name;
+            int age;
+            string workPlase;
+            Console.Write("Как, вас, зовут? ");
+            name = Console.ReadLine();
+            Console.Write("В каком году вы родились? ");
+            age = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Где вы работаете? ");
+            workPlase = Console.ReadLine();
+            Console.WriteLine("Приятно познакомиться " + name + " вам " + (2022 - age) +
+                " Лет" + " надеюсь вам нравится ваша работа " + workPlase ".");
